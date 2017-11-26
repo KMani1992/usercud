@@ -1,0 +1,8 @@
+/home/mani/Documents/workspace-sts-3.8.3.RELEASE/userCUD/src/main/java/com/user/cud/UserCudApplication.java
+/home/mani/Documents/workspace-sts-3.8.3.RELEASE/userCUD/src/main/java/com/user/model/User.java
+/home/mani/Documents/workspace-sts-3.8.3.RELEASE/userCUD/src/main/java/com/user/repository/UserRepositry.java
+/home/mani/Documents/workspace-sts-3.8.3.RELEASE/userCUD/src/main/java/com/user/cud/util/UserCUDResponse.java
+/home/mani/Documents/workspace-sts-3.8.3.RELEASE/userCUD/src/main/java/com/user/cud/util/ResponseCodes.java
+/home/mani/Documents/workspace-sts-3.8.3.RELEASE/userCUD/src/main/java/com/user/cud/service/UserCUDService.java
+/home/mani/Documents/workspace-sts-3.8.3.RELEASE/userCUD/src/main/java/com/user/cud/util/UserValidationError.java
+/home/mani/Documents/workspace-sts-3.8.3.RELEASE/userCUD/src/main/java/com/user/cud/controller/UserCUDController.java

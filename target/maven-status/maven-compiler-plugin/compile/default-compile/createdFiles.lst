@@ -1,0 +1,8 @@
+com/user/cud/controller/UserCUDController.class
+com/user/cud/util/UserValidationError.class
+com/user/cud/util/ResponseCodes.class
+com/user/model/User.class
+com/user/repository/UserRepositry.class
+com/user/cud/util/UserCUDResponse.class
+com/user/cud/service/UserCUDService.class
+com/user/cud/UserCudApplication.class
